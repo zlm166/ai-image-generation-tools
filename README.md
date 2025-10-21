@@ -1,6 +1,6 @@
 # Top 10 AI Image Generation Tools Collection in 2025
 AI image generation technology is revolutionizing the way we create. Whether it’s intricate illustrations, dreamlike scenes, or surreal visual art, all it takes now is a few words — and AI can turn your imagination into reality。
-Here are 20 of the most noteworthy AI image generation tools of 2025 — let’s see which one suits you best.
+Here are 10 of the most noteworthy AI image generation tools of 2025 — let’s see which one suits you best.
 ## 1.[Fast Image AI](https://fastimage.ai)
 Fast Image AI is a powerful online AI image generator designed to enable users to easily turn their creative ideas into works of art, without requiring any design experience. By entering simple text descriptions or uploading reference images, users can generate images in a variety of styles, including Studio [Ghibli](https://fastimage.ai/ai-image-style-transfer-library/ghibli-style-generator) style, [sketch](https://fastimage.ai/ai-image-style-transfer-library/sketch-style-generator) style, and [Pixar](https://fastimage.ai/ai-image-style-transfer-library/pixar-style-generator) style.
 ![Fast Image AI](https://github.com/zlm166/ai-image-generation-tools/blob/main/images/1.png)
